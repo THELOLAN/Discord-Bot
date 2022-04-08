@@ -2,7 +2,7 @@
   "name": "Discord_BotV12",
   "version": "1.0.0",
   "description": "This is my first Discord bot made using [discord.js](https://github.com/discordjs/discord.js)",
-  "main": "src/index.js",
+  "main": "Lavalink/lavalink.jar",
   "scripts": {
     "start": "node .",
     "generate-docs": "jsdoc --configure C:/Users/benja/Desktop/Discord-Bot/jsdoc.json --verbose",
